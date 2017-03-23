@@ -1,0 +1,5 @@
+td { padding: 5px;
+text-align: center}
+.tableheads{
+	font-weight:bold;text-align:center;font-size:14px;background-color:#607D8B;color:rgba(255,255,255,1)
+}

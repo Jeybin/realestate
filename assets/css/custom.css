@@ -1,0 +1,92 @@
+.propertiesimagecontainer {
+	height: 180px;
+}
+a {
+	text-decoration: none !important;
+}
+img {
+	height: 100%;
+	width: 100%;
+	object-fit: cover;
+}
+.fa {
+	cursor: pointer;
+	transition: all 0.25s ease-in-out;
+}
+
+.fa-eye:hover{
+	color: #9B59B6  ;
+}
+
+.fa-pencil:hover{
+	color: #22A7F0 ;
+}
+
+.fa-gavel:hover{
+	color:#FFA631;
+}
+
+.fa-plus-circle:hover {
+	color: #FFA500;
+}
+
+.fa-trash:hover {
+	color: #F55;
+}
+
+.hrefwithnostyle {
+	 text-decoration: none;
+	 color: #2d2d2d;
+}
+
+
+.modal-content {
+	border-radius: 0;
+}
+
+
+.property_lg_maincontainer {
+	padding:10px 5px 50px;
+}
+
+.property_lg_div {
+	padding: 15px;
+	background-color:#fff;
+}
+
+.property_lg_imagediv {
+	height: 300px;
+}
+
+.property_lg_other_datas{
+	padding-top: 25px;
+	font-size: 13px;
+	line-height: 18px;
+	font-weight: 400;
+}
+
+.property_lg_headData {
+	height: 300px;
+
+}
+.property_lg_other_datas > .col-xs-4 {padding:0}
+
+.property_lg_heading {
+	font-size: 30px;
+	line-height: 35px;
+	font-weight: 300;
+}
+
+.property_lg_btn_container {
+	position: absolute;
+	bottom:0;
+}
+
+
+.property_lg_btn_container > button {
+	padding: 2px 5px;
+}
+
+.property_lg_btn_container > span > button {
+	padding: 2px 5px;
+}
